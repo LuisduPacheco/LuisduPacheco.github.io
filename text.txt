@@ -1,0 +1,54 @@
+<!-- <h2>Datos1</h2> -->
+                            <div class="card" style="width: 26rem; height: 16rem;">
+                                <div class="card-body">
+                                  <h5 class="card-title">Hola soy Luis De León</h5>
+                                  <p class="card-text">Actualmente me encuentro cursando la carrera de Ingeniería en Ciencias y Sistemas en la Universidad de San Carlos de Guatemala.
+                                    He tenido experiencia laboral en el área de servicio al cliente como asesor de ventas de tecnología en dos de las tiendas más grandes en el país manejando
+                                    inventarios, cierres y cobros en efectivo y POS.
+                                  </p>
+                                </div>
+                              </div>  
+
+    
+    <!-- <h2>Datos2</h2> -->
+                            <div class="card card-info" style="width: 26rem; height: 16rem;">
+                                <div class="card-body">
+                                    <ul class="list-group">
+                                        <li class="list-group-item d-flex justify-content-between align-items-center">
+                                          Dirección:
+                                          <span class="badge bg-primary rounded-pill">Ciudad de Guatemala, zona 7</span>
+                                        </li>
+                                        <li class="list-group-item d-flex justify-content-between align-items-center">
+                                          Edad:
+                                          <span class="badge bg-primary rounded-pill">25 años</span>
+                                        </li>
+                                        <li class="list-group-item d-flex justify-content-between align-items-center">
+                                          Formación:
+                                          <span class="badge bg-primary rounded-pill">Universidad de San Carlos de Guatemala <br>INTECAP - Desarrolladore Java</span>
+                                        </li>
+                                        <li class="list-group-item d-flex justify-content-between align-items-center">
+                                            Habilidades:
+                                            <span class="badge bg-primary rounded-pill">Inglés Técnico</span>
+                                        </li>
+                                      </ul>
+                                </div>
+                              </div>
+                        <!-- </div> -->
+
+<div class="col-sm-12 col-md-12 col-lg-6 col-xl-6">
+                                <!-- <h2>Datos3</h2> -->
+                                <div class="card mb-3" style="max-width: 512px;">
+                                    <div class="row g-0">
+                                      <div class="col-md-4">
+                                        <img src="img/codigo.png" class="img-fluid rounded-start" alt="habilidades">
+                                      </div>
+                                      <div class="col-md-8">
+                                        <div class="card-body">
+                                          <h5 class="card-title">Servicios</h5>
+                                          <p class="card-text">Desarrollador de Aplicaciones Java y Android <br>Conocimientos en Python <br>Servicio de atención al cliente</p>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                  
+                            </div>
